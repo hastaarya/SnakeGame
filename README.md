@@ -21,8 +21,8 @@ This repository contains a simple Snake game created as part of the **100 Days o
 4. Use the arrow keys to guide the snake and collect food. Avoid collisions!
    <br>
 ## Tech Stack 💻
--Language: Python
--Graphics Library: Turtle
+- Language: Python
+- Graphics Library: Turtle
 ## Future Improvements 🚀
 - **Levels**: Add levels with increasing difficulty.
 - **Sound Effects**: Implement sound effects for actions and game over.
