@@ -6,7 +6,7 @@ class ScoreBoard(Turtle):
     def __init__(self):
         super().__init__()
         self.score = 0
-        with open("SnakeGame\score.txt") as data:
+        with open("score.txt") as data:
             self.high_score = data.read()
             if self.high_score == '':
                 self.high_score = 0
